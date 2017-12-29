@@ -26,8 +26,11 @@ FBMS:  0.0619
 ========================================================================
 
 Our code for synthesizing video data from still image has been uploaded. 
+
 UnZip synthesizevideo.rar first. 
+
 Then install vlfeat toolbox first (in 'functions' folder). 
+
 Run synthesizevideo.m.
 
 ========================================================================
